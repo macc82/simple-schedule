@@ -190,7 +190,7 @@ export default ({
   );
 
   return (
-    <Col className={"m-1 align-self-start border rounded-md bg-".concat(bg)}>
+    <Col className={"m-1 align-self-start border rounded-lg bg-".concat(bg)}>
       <div className="d-flex flex-nowrap flex-row border-bottom align-items-start">
         <Row noGutters xs={1} lg={2} className="pl-1 justify-content-between w-100">
           <Col className="d-flex flex-nowrap align-items-center">
